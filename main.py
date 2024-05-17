@@ -22,5 +22,5 @@ plt.title("Group 1 - Black")
 plt.grid(zorder=1, linestyle="--")
 plt.legend()
 
-plt.savefig("1.png")
+plt.savefig("graph.png")
 plt.show()
